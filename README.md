@@ -12,9 +12,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies from ineuron.ai.
+- 👨🏽‍💻 I recently completed my Data Science studies from ineuron.ai
 - ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
-- 🤔 My interests are in Data Science, web development and in Embedded systems.
+- 🤔 My interests are in Data Science, Web Development and in Embedded Systems.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via akshaykadam771@gmail.com to reach me.
 - 📝 See my [Resume](https://github.com/akshaykadam771/Resume/blob/master/akshay_DS_CV_2020.pdf) to get more info.
