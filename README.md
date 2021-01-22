@@ -17,7 +17,7 @@
 - 🤔 My interests are in Data Science, Web Development and in Embedded Systems.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via akshaykadam771@gmail.com to reach me.
-- 📝 See my [Resume](https://github.com/akshaykadam771/Resume/blob/master/Akshay_Kadam_DataScience_CV_2020.pdf) to get more info.
+- 📝 See my [Resume](https://github.com/akshaykadam771/Resume/blob/master/Akshay_Kadam_DataScience_1Year_2021_.pdf) to get more info.
 - 🎯Visit my Blog [website](https://inblog.in/@akshaykadam771)
 
 <br/>
