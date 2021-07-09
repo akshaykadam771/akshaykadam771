@@ -62,7 +62,7 @@ Happy Coding!!
 
 ### My Socials
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/akshay-kadam-91543614a/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/akshaykadam771)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/akshaykadam771/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](https://www.linkedin.com/in/akshay-kadam-91543614a/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](https://github.com/akshaykadam771)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/youtube.png">](https://www.youtube.com/channel/UC1y7E2g9NUpfi5ZZwC3U_wg)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png">](https://www.instagram.com/akshaykadam771/)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykadam771&style=flat-square)
