@@ -4,7 +4,7 @@
   <em>
     I'm a <b>Data Scientist</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
   </em>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
  </p>
 
 
@@ -17,7 +17,7 @@
 - 🤔 My interests are in Data Science, Web Development and in Embedded Systems.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via akshaykadam771@gmail.com to reach me.
-- 📝 See my [Resume](https://github.com/akshaykadam771/Resume/blob/master/Akshay_Kadam_Data_Science_Resume_2021.pdf) to get more info.
+- 📝 See my [Resume](https://github.com/akshaykadam771/Resume/blob/master/Akshay_Kadam_Data_Science_Resume_2021.pdf) to get more info about me.
 - 🎯Visit my Blog [website](https://inblog.in/@akshaykadam771)
 
 <br/>
