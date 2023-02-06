@@ -12,7 +12,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies from ineuron.ai
+- 👨🏽‍💻 I have completed my Data Science studies from ineuron.ai
 - ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
 - 🤔 My interests are in Data Science, Web Development and in Embedded Systems.
 - 💬 Ask me about anything, I am happy to help.
