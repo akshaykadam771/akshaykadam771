@@ -24,11 +24,11 @@
 
 **Things I'm good at :fire:**
 
-**Languages:**  Python, HTML, Embedded C.
+**Languages:**  Python, HTML, Ruby.
 
-**Framework:** Flask
+**Framework:** Flask, Chainlit
 
-**Libraries & Tools:** NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
+**Libraries & Tools:** NumPy, Langchain, Pandas, Scikit-Learn, SciPy, Matplotlib, keras, PyTorch, Keras, NLTK, Tensorflow.
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
