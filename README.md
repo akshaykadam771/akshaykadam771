@@ -1,4 +1,5 @@
-### Hi there, I'm [Akshay]()! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/akshaykadam771?style=social) 👋
+### Hi there, I'm [Akshay]() <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
+### ![GitHub followers](https://img.shields.io/github/followers/akshaykadam771?style=social)
 
 <p>
   <em>
